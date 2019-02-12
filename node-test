@@ -1,0 +1,4 @@
+#!/bin/bash
+# 2019-02-12 (cc) <paul4hough@gmail.com>
+#
+echo $*
